@@ -16,7 +16,7 @@ class Dog
   end
 
   def self.print_all
-    @@all.eac
+    @@all.each do
   end
 
   def save
