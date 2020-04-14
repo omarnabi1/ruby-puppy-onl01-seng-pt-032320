@@ -16,7 +16,7 @@ class Dog
   end
 
   def self.print_all
-    @@all.each do |name|
+    @@all.each do |name, "Pluto|
   end
 
   def save
