@@ -16,11 +16,11 @@ class Dog
   end
 
   def self.print_all
-    @@all.each {name}
+    @@all.each
   end
 
   def save
-    @@all << self.each 
+    @@all << self
   end 
 end
   
