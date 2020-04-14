@@ -16,7 +16,7 @@ class Dog
   end
 
   def self.print_all
-   puts Dog ("Pluto")
+   puts Dog
   end
 end
 
